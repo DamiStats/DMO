@@ -1,0 +1,4 @@
+mv what where (il primo è il comando, il secondo è il nome del file+estenzione, il terzo è la direcotory in cui spostare)
+mv what rename(comando, nome file, rinomina file)
+
+
